@@ -1,10 +1,12 @@
 PufiApp
 
-es una aplicacion para temas de maquetado y visualización
-
 Para correr este proyecto localmente ejecute:
 npm install
 npm start
+
+Es una aplicacion para temas de maquetado y visualización
+Contiene En el newslatter un Input controlado y con notificación de suscripcion de email con Formpree
+
 
 así se debería ver:
 
