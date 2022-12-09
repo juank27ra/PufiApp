@@ -36,15 +36,12 @@ export default function Subscribe() {
     
     const handleSubmit = (e) => {
         e.preventDefault();
-        // if(Object.keys(errors).length > 0 ){  
-        //     alert('todos los campos son Obligatorios')
-        // }else{
             dispatch(postForm(input))
             alert(`email enviado con exito`) 
             setInput({
             email: ''
             }) 
-        // }  
+
     }
 
   return (
@@ -70,5 +67,3 @@ export default function Subscribe() {
     </div>
   )
 }
-
-// disabled={Object.keys(errors).length}
