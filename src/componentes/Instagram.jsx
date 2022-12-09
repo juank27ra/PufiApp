@@ -1,6 +1,7 @@
 import React from 'react'
 
 export default function Instagram() {
+  
   return (
     <div className='text-center mb-20 mt-20'>
     <h3 className='text-xl text-gray-300'>INSTAGRAM</h3>
@@ -26,8 +27,6 @@ export default function Instagram() {
         <img alt='' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQa4ZJko-20U1dtAcQ8F2356EAY4A2kp-6xAhUPzS15oq_N4-oqRfr31L2KFqzRl5h5M&usqp=CAU' class="bg-gray-500 m-0.5 h-52 w-64 "/> 
       </a>  
     </div>
-    
-    
     </div>
   )
 }

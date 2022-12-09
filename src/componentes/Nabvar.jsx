@@ -6,6 +6,7 @@ import {FiChevronDown} from 'react-icons/fi'
 
 
 export default function Nabvar() {
+    
   return (
     <div className="bg-[url('https://images.squarespace-cdn.com/content/v1/600f63232fdc3d6dff8cdffa/7332f3a1-2893-4db9-bb92-346f7e49bd02/cocoon6-squarespace.jpg')] h-[55em] w-full bg-no-repeat">
    
@@ -42,11 +43,8 @@ export default function Nabvar() {
             </div>
             </div>
         </nav>
-
             <h1 className='text-5xl font-semibold text-white text-center mt-32'>ESTÁR CÓMODO,</h1>
             <h1 className='text-5xl font-semibold text-white text-center'>NUNCA FUE TAN FÁCIL</h1>
-
-
             <button className='border border-white font-semibold m-10 flex items-center justify-center ml-[45%] text-white text-center mt-44 mb-28 p-4 w-44'>SHOP</button>
 
     </div>

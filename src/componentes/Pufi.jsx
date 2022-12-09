@@ -10,12 +10,8 @@ export default function Pufi() {
     return (
     <div >
         <div>
-          <Nabvar className=' '/> 
+          <Nabvar/> 
         </div>
-        {/* <img src='https://oportunidades-vip.com.ar/wp-content/uploads/2020/11/sillon-sofa-inflable-grand-bag-2.jpg ' 
-        alt='nada' className=" relative h-screen -z-10 overflow-hidden block w-full  "   
-        /> */}
-        
       <div className='grid grid-row-4 grid-cols-2 mt-0 mr-0'>
         <div>
           <img alt='Umbrella' src='https://static.emol.cl/emol50/Fotos/2021/01/31/file_20210131074425.jpg' class=" h-[40em] w-full "/>

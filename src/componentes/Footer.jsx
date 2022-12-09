@@ -89,12 +89,12 @@ export default function Footer() {
         </div>
     </div>
     <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-    <div className="sm:flex sm:items-center sm:justify-between">
-        <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">PUFI Copyright 2017 - Todos los derechos reservados </span>
-        <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
-            <img src='http://www.ecommerceday.co/2018/wp-content/uploads/2017/08/Brandlive-1.png' alt='brandlive'  className='mr-3 h-12 w-24'/>                
+        <div className="sm:flex sm:items-center sm:justify-between">
+            <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">PUFI Copyright 2017 - Todos los derechos reservados </span>
+            <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
+                <img src='http://www.ecommerceday.co/2018/wp-content/uploads/2017/08/Brandlive-1.png' alt='brandlive'  className='mr-3 h-12 w-24'/>                
+            </div>
         </div>
-    </div>
 </footer>
 
   )
