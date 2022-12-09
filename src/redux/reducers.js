@@ -1,7 +1,7 @@
-import {  } from './actions'
+
 
 const initialState = {
-    p: {}
+    subscribe: {}
 }
 
 export default function rootReducers(state = initialState, action) {
@@ -9,7 +9,6 @@ export default function rootReducers(state = initialState, action) {
         case "PAS":
             return {
                 ...state,
-                p: action.payload
             }
             default:
                 return state;
